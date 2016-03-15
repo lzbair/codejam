@@ -1,4 +1,4 @@
-package codejam.google.com;
+package codejam.storecredit;
 import static java.lang.Integer.valueOf;
 import java.util.HashMap;
 import java.util.Map;

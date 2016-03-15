@@ -1,4 +1,4 @@
-package codejam.google.com;
+package codejam.storecredit;
 
 public class Output {
 

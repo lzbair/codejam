@@ -1,4 +1,4 @@
-package codejam.google.com;
+package codejam.storecredit;
 import static  java.lang.Integer.parseInt;
 import java.io.IOException;
 import java.nio.file.Files;
